@@ -1,5 +1,5 @@
 # Practical_auditing
-Practical auditing using the NIST 800-171 
+Practical auditing using the NIST 800-53 
 
 This project will highlight an audit and use the NIST framework to help with this. 
 The NIST Frameworks follows the highlevel view of 
