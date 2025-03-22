@@ -9,7 +9,41 @@ we will then make our system, linux and windows VM vunerable and focus on right 
 
 We will then at the end of this project focus on Lessons Learned and create a personal playbook to responed to the issue. 
 
+
+
 Identify 
+Three methods of data collection 
+
+Interview 
+
+
+Test the control (i.e. password ACL, make a terrible password i.e. guest or password and test the control does it throw up an error?)
+
+Documentation (policies, procedures, configuration change control, help-desk tickets)
+
+
+
+Evidence Detail 
+
+
+
+Finding 
+
+
+Dispostion (is the control in place, partial, or not applicable..)
+
+
+
+
+
+
+
+
+
+
+
+
+
 - audit of your machines and OS systems running
     - Linux Mint OS
         - creating a user, with sudo privileges, not running from root, keys of the castle. 
