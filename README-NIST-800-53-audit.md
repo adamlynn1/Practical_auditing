@@ -19,6 +19,7 @@ This repository contains documentation, assessments, and planning materials for 
 ##  Key Artifacts
 - **System Security Plan (SSP):** Control implementation descriptions
 - **POA&M:** Gaps, remediation plans, timelines
+    - [view full gap analysis here](https://docs.google.com/spreadsheets/d/1gCu--nQ6blrOD27D8m1Hd8aLVxNOw6KKbvPKc9JyCiU/edit?usp=sharing) 
 - **Control Assessments:** Evaluation results for each control
 - **Supporting Evidence:** Logs, screenshots, config files
 
